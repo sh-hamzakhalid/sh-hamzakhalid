@@ -148,7 +148,7 @@ Two tracks grew side by side: **Antennas → FPGA DSP → RF Systems** and **Fir
 
 ---
 
-## 📡 Track 1: RF Systems
+## 📡 RF Systems
 
 ### Flagship Project: Multichannel Correlative Interferometer Direction Finding
 
@@ -206,7 +206,7 @@ Comparing magnitude-only, phase-only and full baseline correlation showed full b
 
 ---
 
-## ⚙️ Track 2: Embedded, IIoT & Cloud
+## ⚙️ Embedded, IIoT & Cloud
 
 ### Flagship Project: Energy Monitoring System with LLM Anomaly Detection
 
