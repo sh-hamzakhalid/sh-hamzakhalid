@@ -297,13 +297,13 @@ My MS work taught me a habit I use on every project: measure carefully, check th
 **Master of Science in Electrical Engineering (MSEE)**
 
 - Information Technology University of the Punjab (ITU), Lahore | 2017 - 2019
-- CGPA: **3.33 / 4.00** (semester GPA rose from 2.78 to 3.84)
+- CGPA: **3.33 / 4.00** 
 - Thesis: *Statistical Performance Evaluation of Quadratic Interpolation on Multichannel Correlative Interferometer Direction Finding System*
 
 **Bachelor of Science in Electrical Engineering (BSEE)**
 
 - Information Technology University of the Punjab (ITU), Lahore | 2013 - 2017
-- CGPA: **3.38 / 4.00** | Recipient of a **Merit Scholarship**
+- CGPA: **3.38 / 4.00** | Recipient of a **Merit Scholarship at ITU**
 - Thesis: *RF Based Metal Detection Using Custom Horn Antennas and SDR Platforms*
 
 ### Relevant Coursework
